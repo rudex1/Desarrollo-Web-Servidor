@@ -1,0 +1,6 @@
+{
+    "name": "root/pusher",
+    "require": {
+        "pusher/pusher-php-server": "^2.6"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "propel": {
+        "paths": {
+            "schemaDir": "\/home\/ubuntu\/workspace\/03-database\/Propel-ORM",
+            "phpDir": "\/home\/ubuntu\/workspace\/03-database\/Propel-ORM"
+        }
+    }
+}

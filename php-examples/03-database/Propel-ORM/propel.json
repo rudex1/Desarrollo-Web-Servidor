@@ -1,0 +1,17 @@
+{
+    "propel": {
+        "database": {
+            "connections": {
+                "default": {
+                    "adapter": "mysql",
+                    "dsn": "mysql:host=localhost;port=3306;dbname=c9",
+                    "user": "zmwebdev",
+                    "password": null,
+                    "settings": {
+                        "charset": "utf8"
+                    }
+                }
+            }
+        }
+    }
+}

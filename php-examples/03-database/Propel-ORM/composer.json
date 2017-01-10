@@ -1,0 +1,12 @@
+{
+    "name": "root/0-example",
+    "authors": [
+        {
+            "name": "zmwebdev",
+            "email": "zmwebdev@gmail.com"
+        }
+    ],
+    "require": {
+        "propel/propel": "~2.0@dev"
+    }
+}
